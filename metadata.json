@@ -1,6 +1,6 @@
 {
-  "name": "Customer Churn Predictor",
-  "description": "An interactive machine learning platform for exploring, modeling, and predicting customer churn, featuring comprehensive EDA, multi-model evaluation, and an interactive prediction form.",
+  "name": "House Price Prediction",
+  "description": "An interactive ML workspace and house price prediction dashboard featuring data cleaning, EDA, 7-model benchmark, hyperparameter tuning, and a live regression predictor.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
