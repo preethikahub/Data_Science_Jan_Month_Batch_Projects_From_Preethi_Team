@@ -1,0 +1,6 @@
+{
+  "name": "Customer Churn Predictor",
+  "description": "An interactive machine learning platform for exploring, modeling, and predicting customer churn, featuring comprehensive EDA, multi-model evaluation, and an interactive prediction form.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
